@@ -8,12 +8,3 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-
-# Ignore everything
-*
-
-# Do not ignore directories (needed to traverse)
-!*/
-
-# Allow only Python files
-!*.py
